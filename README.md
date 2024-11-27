@@ -1,11 +1,23 @@
-Face and Eye Detection
-This repository contains a simple implementation of face and eye detection using Haar Cascade classifiers with Python. This project demonstrates the usage of OpenCV for detecting faces and eyes in an image or real-time video feed.
+# Face and Eye Detection Project
 
-- Features
-Face detection using Haar Cascade.
-Eye detection integrated with face detection.
-Real-time detection via webcam.
+This repository provides a simple implementation of face and eye detection using Haar Cascade classifiers with Python and OpenCV. The project demonstrates real-time detection of faces and eyes via webcam or processing of static images.
 
-- Requirements
-Python 3.x
-OpenCV library
+## Features
+- Detect faces in images or video streams.
+- Detect eyes within detected faces.
+- Real-time video processing with OpenCV.
+
+## Requirements
+- Python 3.x
+- OpenCV library
+
+## How to Clone the Repository
+
+If you want to download or clone this repository, follow the steps below:
+
+1. **Open a terminal or command prompt.**
+
+2. **Clone the repository**
+   Run the following command:
+   ```bash
+   git clone https://github.com/FajarYNC/face-and-eye-detection-project.git

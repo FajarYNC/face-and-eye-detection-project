@@ -21,3 +21,12 @@ If you want to download or clone this repository, follow the steps below:
    Run the following command:
    ```bash
    git clone https://github.com/FajarYNC/face-and-eye-detection-project.git
+
+3. Navigate to the project folder
+   cd face-and-eye-detection-project
+
+4. Install dependencies Install the required libraries by running:
+   pip install opencv-python
+
+5. Run the project Execute the main Python script to start face and eye detection:
+   python main.py
